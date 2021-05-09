@@ -1,0 +1,4 @@
+node_modules
+default.vim
+.vercel
+dist
